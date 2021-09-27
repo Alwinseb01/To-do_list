@@ -1,2 +1,2 @@
 # To-do List using React Native
-<img src="Demo1.jpg">
+<img src="Demo1.jpg" height="700px">
